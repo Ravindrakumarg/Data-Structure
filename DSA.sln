@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicArrayN", "DynamicArr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bit", "Bit\Bit.vcxproj", "{5E03D247-4529-431E-8C1A-C0F641414ADF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Searching", "Searching\Searching.vcxproj", "{13F763AE-EE3B-4DA5-92D0-ACA8454C7507}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{5E03D247-4529-431E-8C1A-C0F641414ADF}.Release|x64.Build.0 = Release|x64
 		{5E03D247-4529-431E-8C1A-C0F641414ADF}.Release|x86.ActiveCfg = Release|Win32
 		{5E03D247-4529-431E-8C1A-C0F641414ADF}.Release|x86.Build.0 = Release|Win32
+		{13F763AE-EE3B-4DA5-92D0-ACA8454C7507}.Debug|x64.ActiveCfg = Debug|x64
+		{13F763AE-EE3B-4DA5-92D0-ACA8454C7507}.Debug|x64.Build.0 = Debug|x64
+		{13F763AE-EE3B-4DA5-92D0-ACA8454C7507}.Debug|x86.ActiveCfg = Debug|Win32
+		{13F763AE-EE3B-4DA5-92D0-ACA8454C7507}.Debug|x86.Build.0 = Debug|Win32
+		{13F763AE-EE3B-4DA5-92D0-ACA8454C7507}.Release|x64.ActiveCfg = Release|x64
+		{13F763AE-EE3B-4DA5-92D0-ACA8454C7507}.Release|x64.Build.0 = Release|x64
+		{13F763AE-EE3B-4DA5-92D0-ACA8454C7507}.Release|x86.ActiveCfg = Release|Win32
+		{13F763AE-EE3B-4DA5-92D0-ACA8454C7507}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

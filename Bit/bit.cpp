@@ -28,8 +28,8 @@ void BasicBitOperation()
 
 	PRINT("a|b",  a|b);
 	PRINT("a&b",  a&b);
-	PRINT("b>>2", b>>2);
-	PRINT("b<<2", b<<2);
+	PRINT("b>>2", b>>2);	// right shift is actually "divides by two"
+	PRINT("b<<2", b<<2);	// left shift is actually "multiply by two"
 	PRINT("a^b",  a^b);
 	PRINT("~a",   a=~a);
 }
